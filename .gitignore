@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.gem
 *.rbc
 /.config
@@ -48,3 +49,43 @@ build-iPhoneSimulator/
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
+=======
+# See https://help.github.com/articles/ignoring-files for more about ignoring files.
+
+*.rbc
+capybara-*.html
+.rspec
+/log
+/tmp
+/db/*.sqlite3
+/db/*.sqlite3-journal
+/public/system
+/coverage/
+/spec/tmp
+*.orig
+rerun.txt
+pickle-email-*.html
+config/initializers/secret_token.rb
+config/master.key
+ult
+.env
+/.bundle
+/vendor/bundle
+.rvmrc
+/vendor/assets/bower_components
+*.bowerrc
+bower.json
+.powenv
+.byebug_history
+node_modules/
+/public/packs
+/public/packs-test
+/public/assets
+/yarn-error.log
+yarn-debug.log*
+.yarn-integrity
+/storage/*
+!/storage/.keep
+/config/credentials.yml.enc
+
+>>>>>>> first commit
